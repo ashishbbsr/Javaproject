@@ -32,6 +32,6 @@ public class Linear_search {
 		System.out.println("Enter the value you want to find :");
 		int key =sc.nextInt();
 		int result=linear(a,key);
-		System.out.println("The element is present at "+result+" index position.");
+		System.out.println("The element is present at "+result+"  position.");
 	}
 }
